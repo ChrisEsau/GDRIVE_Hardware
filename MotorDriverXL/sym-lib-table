@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ExEmb)(type Legacy)(uri /home/chris/KiCad/MotorDriverXL/ExEmb.lib)(options "")(descr ""))
+)

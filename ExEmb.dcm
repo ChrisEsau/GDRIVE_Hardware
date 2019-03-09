@@ -1,0 +1,99 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_01x05
+D Generic connectable mounting pin connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP D_60V_2A_PMEG6020ER
+D 20V 2A Schottky Barrier Rectifier Diode, SMB
+K diode Schottky
+F http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf
+$ENDCMP
+#
+$CMP D_Small
+D Diode, small symbol
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_TVS_5V
+D Diode, small symbol
+K diode
+F ~
+$ENDCMP
+#
+$CMP IC_LM3671MF
+D 3MHz switching bucK regulator, 600mA 1.0V output voltage,
+K Voltage regulator switching buck fixed output analog
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADP2108.pdf
+$ENDCMP
+#
+$CMP IC_STM32F405RGT6
+D ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64
+K ARM Cortex-M4 STM32F4 STM32F405/415
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf
+$ENDCMP
+#
+$CMP LED_BLUE
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_GREEN
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP LED_RED
+D Light emitting diode, small symbol
+K LED diode light-emitting-diode
+F ~
+$ENDCMP
+#
+$CMP L_2.2uH_600mA_MLZ2012N2R2L
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP Q_IRF7749
+D 61A Id, 25V Vds, 0.7mOhm Rds, N-Channel MOSFET, DirectFET L6
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6718l2pbf.pdf?fileId=5546d462533600a4015355ed25bd1a88
+$ENDCMP
+#
+$CMP Q_IRFS7530
+D 61A Id, 25V Vds, 0.7mOhm Rds, N-Channel MOSFET, DirectFET L6
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6718l2pbf.pdf?fileId=5546d462533600a4015355ed25bd1a88
+$ENDCMP
+#
+$CMP Q_NMOS_60V_70A
+D 61A Id, 25V Vds, 0.7mOhm Rds, N-Channel MOSFET, DirectFET L6
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf6718l2pbf.pdf?fileId=5546d462533600a4015355ed25bd1a88
+$ENDCMP
+#
+$CMP TH_NTC_10K_1%_0603
+D Temperature dependent resistor, negative temperature coefficient
+K thermistor NTC resistor sensor RTD
+F ~
+$ENDCMP
+#
+$CMP TestPoint
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
+$CMP XTAL_8Mhz_ABM3B
+D Three pin crystal, GND on pin 2, small symbol
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+#End Doc Library
